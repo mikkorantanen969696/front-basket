@@ -1,0 +1,12 @@
+{
+  "city": "Новосибирск",
+  "sources": [
+    {
+      "name": "X5 Пятёрочка",
+      "xlsx_column": "Розница Х5",
+      "type": "csv",
+      "path": "prices_x5.csv"
+    }
+  ]
+}
+

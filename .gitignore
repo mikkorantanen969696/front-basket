@@ -1,1 +1,4 @@
 venv
+* (monitor) *.xlsx
+* (updated) *.xlsx
+prices_*.csv
